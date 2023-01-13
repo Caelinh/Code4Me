@@ -1,6 +1,6 @@
 # Code4Me
 
-## [Website demo](javanauts-code4me.herokuapp.com)
+## [Website demo](https://code4me.herokuapp.com/)
 
 ### Team Members
 *Caelin Hargrave*   
